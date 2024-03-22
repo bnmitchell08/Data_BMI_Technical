@@ -1,0 +1,929 @@
+record_id,Sex,Age,Race,Weight (kg),Height (cm)
+1,Male,19,African American,76.7,171.9
+2,Male,32,Caucasian,62.4,167.7
+3,Male,61,African American,63.9,175.8
+4,Male,55,Caucasian,63.2,184.7
+5,Male,23,Caucasian,72.0,176.3
+6,Male,53,Caucasian,65.9,187.1
+7,Female,32,Caucasian,85.9,175.6
+8,Female,69,Asian,81.4,178.2
+9,Male,62,Caucasian,89.3,164.5
+10,Female,27,Caucasian,86.1,175.8
+11,Female,24,Caucasian,74.3,174.6
+12,Male,40,Asian,59.1,179.5
+13,Female,69,Caucasian,81.1,163.2
+14,Female,52,Caucasian,70.2,171.5
+15,Female,23,Caucasian,67.7,159.0
+16,Female,54,Caucasian,66.8,166.9
+17,Male,20,Caucasian,77.9,182.7
+18,Female,23,Asian,70.0,158.7
+19,Male,42,Caucasian,79.1,175.6
+20,Female,28,Caucasian,75.5,178.4
+21,Male,60,Caucasian,67.0,168.2
+22,Male,56,Caucasian,67.5,185.0
+23,Male,28,Caucasian,57.8,184.4
+24,Female,77,Caucasian,67.6,165.5
+25,Male,61,Caucasian,86.9,187.6
+26,Male,32,Asian,65.7,173.0
+27,Female,43,Caucasian,69.7,161.9
+29,Female,31,Caucasian,67.0,174.1
+30,Female,74,Hispanic,60.9,165.2
+31,Female,27,Caucasian,58.3,183.4
+32,Male,65,Caucasian,61.6,159.0
+33,Female,65,Caucasian,73.3,171.4
+34,Female,41,Caucasian,78.0,173.1
+35,Male,50,Caucasian,71.7,164.7
+36,Male,73,Caucasian,59.0,169.1
+37,Male,68,African American,57.5,160.6
+38,Male,42,Caucasian,62.6,153.2
+39,Female,51,Caucasian,73.6,156.1
+40,Male,61,African American,76.2,168.1
+41,Female,67,Caucasian,75.5,143.5
+42,Male,36,Caucasian,73.3,177.3
+43,Female,18,Hispanic,83.2,176.4
+44,Female,80,Caucasian,49.4,168.5
+45,Male,50,Hispanic,73.3,185.4
+46,Female,71,Caucasian,69.1,196.3
+47,Male,27,Caucasian,61.6,176.9
+48,Male,52,Hispanic,71.7,162.8
+49,Male,56,Caucasian,71.5,172.6
+50,Male,25,Hispanic,81.1,170.1
+51,Female,33,Caucasian,63.6,168.3
+52,Male,23,African American,75.5,157.2
+54,Male,26,Caucasian,81.1,174.0
+55,Male,34,Caucasian,80.6,154.4
+56,Female,79,Caucasian,66.0,167.9
+57,Male,63,Caucasian,85.2,152.7
+58,Female,46,Hispanic,55.7,174.9
+59,Female,25,Caucasian,49.3,163.2
+60,Male,39,Caucasian,82.9,164.6
+61,Male,55,Caucasian,79.2,163.1
+62,Male,63,Caucasian,57.8,163.6
+64,Female,22,Caucasian,88.7,171.3
+65,Female,60,Caucasian,95.6,163.7
+66,Male,64,Hispanic,78.6,178.7
+67,Female,33,Asian,64.7,157.9
+68,Female,30,Caucasian,57.1,161.9
+69,Female,40,Caucasian,52.6,191.5
+70,Female,73,African American,60.6,174.1
+71,Male,21,Caucasian,64.9,171.7
+72,Female,69,Asian,59.4,168.9
+73,Male,30,Caucasian,79.5,163.4
+74,Female,26,Caucasian,76.9,155.9
+75,Female,47,Caucasian,67.5,170.8
+76,Male,46,Asian,55.9,177.2
+77,Male,21,Caucasian,61.8,168.8
+78,Male,80,Caucasian,44.6,187.3
+80,Female,31,Asian,74.3,165.0
+81,Male,28,Caucasian,73.7,180.5
+82,Female,34,Hispanic,69.9,171.5
+83,Female,36,Caucasian,62.5,175.6
+84,Female,27,Caucasian,75.8,156.3
+86,Male,65,Caucasian,61.3,158.3
+87,Male,55,Caucasian,77.3,168.5
+88,Male,21,Hispanic,62.4,166.4
+89,Male,72,Caucasian,74.5,179.2
+90,Male,61,Asian,59.9,151.0
+91,Female,25,Hispanic,70.3,151.0
+92,Male,55,Caucasian,57.6,161.9
+93,Male,44,Caucasian,61.2,168.0
+94,Female,77,Caucasian,75.9,173.7
+95,Female,33,Caucasian,90.3,173.1
+96,Male,60,Caucasian,79.1,175.5
+97,Female,38,Hispanic,73.7,163.0
+98,Male,18,Caucasian,68.3,165.7
+99,Male,22,Caucasian,72.8,167.0
+100,Female,26,Hispanic,68.4,172.3
+101,Male,74,Caucasian,64.5,179.6
+102,Female,28,Caucasian,73.1,167.9
+103,Female,57,Hispanic,51.3,177.6
+104,Male,60,Asian,57.5,166.3
+105,Female,77,African American,66.2,178.5
+106,Male,34,Caucasian,54.2,175.6
+107,Male,65,Caucasian,65.0,174.7
+108,Female,36,Caucasian,78.6,180.6
+109,Female,31,African American,64.7,178.5
+110,Female,50,Caucasian,80.2,175.4
+111,Male,23,Caucasian,84.8,151.9
+112,Female,20,Caucasian,60.9,178.7
+113,Male,58,Hispanic,79.3,189.9
+114,Male,65,Caucasian,93.1,182.3
+115,Female,53,Caucasian,66.2,149.2
+116,Male,78,Asian,80.7,170.4
+117,Male,52,Caucasian,81.1,162.6
+118,Female,55,Caucasian,66.0,167.3
+119,Female,26,Caucasian,57.2,182.4
+120,Female,75,Hispanic,62.6,178.3
+121,Male,75,Caucasian,58.1,179.3
+122,Male,60,Caucasian,93.3,159.9
+123,Female,80,Caucasian,62.6,176.8
+124,Male,77,Hispanic,70.7,181.5
+125,Male,80,Asian,68.0,157.6
+126,Male,74,Caucasian,52.5,171.8
+127,Male,65,Hispanic,72.0,152.2
+128,Female,69,African American,74.8,156.7
+129,Male,35,Caucasian,63.3,174.8
+131,Female,32,Caucasian,80.1,173.2
+132,Female,40,Caucasian,95.3,181.2
+133,Male,32,Caucasian,86.1,171.1
+134,Male,43,Caucasian,58.6,186.7
+135,Male,79,African American,64.3,175.1
+137,Female,78,Caucasian,76.0,171.2
+138,Female,29,Caucasian,66.3,175.1
+139,Female,20,Caucasian,84.4,179.8
+140,Female,40,African American,89.8,162.7
+141,Female,45,Caucasian,88.2,159.4
+142,Male,42,Hispanic,73.7,160.5
+143,Male,34,Caucasian,61.4,179.6
+144,Female,18,Caucasian,65.9,193.4
+145,Male,41,Caucasian,91.5,178.4
+146,Female,57,Caucasian,71.4,172.3
+147,Male,64,Hispanic,73.7,180.4
+148,Female,60,Caucasian,69.9,176.3
+149,Female,62,Caucasian,51.8,178.8
+150,Male,30,Caucasian,73.4,159.4
+151,Female,61,African American,68.8,160.1
+152,Male,57,Caucasian,41.0,163.8
+153,Female,53,Asian,62.2,165.3
+154,Female,36,Caucasian,40.0,168.0
+155,Female,47,Caucasian,60.7,181.8
+156,Male,50,Caucasian,59.4,184.2
+157,Male,60,Caucasian,69.0,164.7
+158,Female,23,Asian,66.1,169.6
+159,Male,61,Caucasian,56.5,175.7
+160,Male,27,Caucasian,77.0,151.7
+161,Male,80,Caucasian,68.6,169.4
+162,Male,47,Caucasian,59.4,183.5
+163,Male,63,African American,67.3,167.1
+164,Female,43,Caucasian,86.5,158.2
+165,Male,75,African American,64.8,171.9
+166,Male,67,Caucasian,74.3,155.5
+167,Male,69,Hispanic,80.2,168.9
+168,Female,21,Caucasian,83.0,177.0
+169,Male,47,Caucasian,69.8,175.0
+170,Female,60,Caucasian,58.8,170.6
+171,Female,78,African American,84.2,172.6
+172,Female,57,Asian,79.5,177.6
+173,Female,71,Hispanic,67.2,171.2
+175,Female,46,Caucasian,74.3,165.6
+176,Male,71,Caucasian,69.8,159.2
+177,Female,58,Caucasian,62.6,182.9
+178,Female,22,African American,66.6,177.7
+179,Male,35,Caucasian,85.0,173.2
+180,Male,26,Caucasian,67.3,168.0
+181,Female,62,Caucasian,70.8,170.5
+182,Male,22,Caucasian,71.4,171.6
+183,Female,52,Caucasian,81.6,159.3
+184,Male,31,Asian,72.4,166.7
+185,Female,75,African American,68.6,174.7
+186,Male,72,Asian,75.9,163.8
+187,Female,48,Caucasian,69.2,194.4
+188,Female,37,African American,76.9,175.6
+189,Female,52,African American,60.9,166.7
+190,Male,49,Caucasian,73.0,176.2
+191,Female,49,Caucasian,64.2,171.3
+192,Female,60,African American,85.6,166.2
+193,Female,64,Caucasian,59.6,170.7
+194,Female,76,Caucasian,64.7,164.1
+195,Male,76,Caucasian,67.5,174.3
+196,Male,23,Caucasian,70.1,167.9
+197,Male,73,Caucasian,71.3,164.7
+198,Male,34,Caucasian,85.1,188.6
+199,Male,47,Caucasian,79.9,178.0
+200,Female,35,African American,75.3,167.1
+201,Female,34,Asian,57.1,163.2
+202,Female,19,African American,80.0,171.8
+203,Male,78,Caucasian,64.4,162.6
+204,Male,67,Hispanic,68.6,193.1
+205,Male,66,Caucasian,55.6,177.4
+206,Male,30,Asian,71.8,160.4
+207,Male,33,Caucasian,72.7,169.1
+208,Male,54,Hispanic,73.4,167.3
+209,Female,62,Caucasian,64.7,158.1
+210,Female,28,Caucasian,87.2,152.2
+211,Male,67,Asian,72.0,169.5
+212,Female,24,Caucasian,71.1,163.9
+213,Female,54,African American,68.2,150.1
+214,Female,43,Hispanic,83.1,173.4
+215,Male,22,Caucasian,76.5,169.7
+216,Male,24,African American,58.2,171.6
+217,Female,72,African American,51.9,190.2
+218,Male,68,Hispanic,67.1,159.0
+219,Male,40,Caucasian,68.1,171.6
+220,Female,22,Caucasian,69.5,161.8
+221,Female,18,Asian,77.9,164.8
+222,Female,24,Caucasian,54.9,186.5
+223,Female,58,Hispanic,74.0,179.3
+224,Female,63,Caucasian,83.0,163.8
+225,Male,64,Caucasian,73.6,165.7
+226,Female,57,Asian,86.3,165.3
+227,Female,47,Caucasian,65.4,180.8
+228,Female,38,Asian,57.4,162.9
+229,Male,35,Asian,84.7,178.2
+230,Male,66,Caucasian,59.2,166.6
+231,Female,39,Caucasian,67.0,159.0
+232,Female,29,Caucasian,65.2,161.7
+233,Female,69,Caucasian,77.2,173.9
+234,Female,74,Caucasian,70.6,167.9
+235,Female,53,Caucasian,83.6,175.1
+236,Male,23,Caucasian,59.2,175.2
+237,Female,49,Caucasian,80.5,180.9
+238,Male,62,Caucasian,73.3,171.5
+239,Female,46,Asian,72.9,173.8
+240,Male,36,Caucasian,55.8,162.3
+241,Male,37,African American,69.0,179.6
+242,Female,48,Caucasian,59.3,174.4
+243,Female,45,Hispanic,68.3,163.8
+244,Female,40,African American,88.3,176.9
+245,Female,37,Caucasian,63.8,161.8
+246,Male,64,Caucasian,80.6,184.6
+247,Male,65,Caucasian,56.1,174.9
+248,Male,30,Caucasian,81.5,177.0
+249,Female,35,African American,67.8,169.0
+250,Female,80,Caucasian,92.5,180.1
+251,Male,36,Caucasian,84.5,166.7
+252,Male,37,Caucasian,68.8,171.9
+253,Male,35,Caucasian,55.3,162.2
+254,Male,53,Caucasian,72.7,164.8
+255,Male,58,Asian,62.3,165.5
+256,Female,24,Asian,78.1,163.6
+257,Female,48,Caucasian,57.9,167.7
+258,Female,29,Hispanic,55.2,172.7
+260,Male,70,Caucasian,68.2,158.2
+261,Female,22,Caucasian,60.1,166.1
+262,Male,27,Caucasian,77.3,161.3
+263,Female,23,Hispanic,73.0,169.4
+264,Male,53,African American,71.5,153.6
+265,Male,67,Caucasian,54.6,166.0
+266,Female,76,Caucasian,61.9,172.7
+268,Male,57,Hispanic,73.1,165.6
+269,Male,78,African American,73.8,159.5
+270,Male,34,Caucasian,66.8,183.8
+271,Male,33,Caucasian,63.6,168.3
+272,Male,28,Caucasian,60.0,170.8
+273,Female,62,Caucasian,79.2,167.8
+274,Female,20,Caucasian,81.4,161.6
+275,Female,62,Asian,85.2,180.4
+276,Male,61,Caucasian,48.4,160.3
+277,Female,68,Asian,79.8,161.6
+278,Male,45,Caucasian,63.5,173.5
+279,Male,59,Caucasian,66.3,167.8
+280,Female,70,Caucasian,62.7,156.3
+281,Male,28,Asian,51.9,174.6
+282,Female,46,Caucasian,78.6,181.3
+283,Female,62,Caucasian,66.0,170.2
+284,Female,50,Caucasian,71.0,181.1
+286,Female,65,Caucasian,66.0,160.6
+287,Female,19,Caucasian,74.1,173.8
+289,Female,54,Caucasian,69.3,172.3
+290,Male,48,Caucasian,91.8,176.0
+291,Female,76,Caucasian,44.8,163.9
+292,Female,58,Asian,65.6,178.8
+293,Male,48,Caucasian,65.9,166.3
+295,Male,39,Caucasian,71.5,154.8
+296,Female,36,Caucasian,56.4,185.5
+297,Female,70,African American,60.6,188.3
+298,Male,47,Caucasian,77.1,168.0
+300,Female,73,Caucasian,68.7,176.9
+301,Male,60,Asian,59.5,174.0
+302,Female,44,Caucasian,71.2,179.8
+303,Female,57,African American,64.2,169.9
+304,Female,66,Caucasian,62.8,182.9
+305,Female,53,Caucasian,73.4,172.2
+306,Female,46,Asian,77.9,174.8
+307,Female,25,Caucasian,73.0,169.4
+308,Male,63,Caucasian,63.8,168.9
+309,Male,53,Caucasian,67.8,164.4
+310,Male,71,Hispanic,71.3,162.3
+311,Female,78,Caucasian,73.3,173.0
+313,Female,50,African American,68.8,158.6
+314,Female,71,Caucasian,61.7,161.7
+315,Female,33,Caucasian,59.0,171.9
+316,Male,42,Caucasian,78.7,164.8
+317,Male,73,Caucasian,58.9,170.3
+318,Female,39,Hispanic,65.6,173.2
+319,Female,70,Caucasian,67.5,184.5
+320,Female,71,Caucasian,80.7,188.3
+321,Female,73,Caucasian,77.7,159.7
+322,Female,40,Caucasian,64.5,166.5
+323,Female,47,Hispanic,67.1,170.0
+324,Male,80,African American,75.0,167.9
+325,Female,32,Asian,56.9,169.7
+326,Female,20,Caucasian,56.3,154.3
+327,Female,63,Hispanic,75.7,176.9
+328,Female,42,Hispanic,50.2,165.1
+329,Male,49,Hispanic,73.8,170.2
+330,Male,50,Hispanic,88.2,171.3
+331,Female,73,Caucasian,62.4,174.7
+332,Female,24,Caucasian,73.2,163.9
+333,Female,18,African American,70.8,175.3
+334,Female,73,Caucasian,68.9,170.5
+335,Male,22,Caucasian,60.7,158.8
+336,Female,39,Caucasian,65.0,168.4
+337,Female,59,Caucasian,61.4,158.6
+338,Female,72,African American,67.1,182.0
+339,Female,79,Caucasian,59.3,154.0
+340,Female,73,Caucasian,64.8,172.2
+341,Male,33,Caucasian,91.1,187.5
+342,Female,32,African American,69.9,153.2
+343,Female,80,Caucasian,49.8,179.3
+344,Male,46,Caucasian,62.7,171.3
+345,Female,75,Caucasian,58.0,160.7
+346,Female,68,Caucasian,90.2,165.3
+347,Female,41,Caucasian,81.2,153.1
+348,Male,51,Caucasian,60.9,158.9
+349,Male,28,Caucasian,70.3,192.6
+350,Female,57,African American,60.2,176.0
+351,Female,76,Caucasian,64.1,171.6
+352,Male,47,Caucasian,69.7,164.5
+353,Female,34,African American,77.0,171.5
+354,Female,75,Caucasian,59.9,156.0
+355,Male,22,Caucasian,85.9,155.9
+356,Female,55,Caucasian,68.6,168.8
+357,Female,62,Caucasian,66.1,161.1
+358,Female,30,Hispanic,80.1,169.0
+359,Female,24,Caucasian,69.8,156.0
+360,Female,54,Caucasian,65.4,180.8
+361,Female,19,Hispanic,57.6,153.4
+362,Female,35,Caucasian,52.7,160.3
+363,Male,76,Caucasian,75.3,164.6
+364,Female,71,Hispanic,74.2,171.4
+365,Female,67,Asian,61.6,175.0
+366,Female,32,Caucasian,79.5,178.6
+367,Female,61,African American,74.3,151.0
+368,Male,58,Caucasian,57.5,160.2
+369,Male,37,Asian,70.2,168.5
+370,Male,55,Caucasian,51.0,166.0
+371,Male,23,Hispanic,68.5,168.0
+372,Female,65,Caucasian,58.5,158.9
+373,Male,26,Asian,63.0,173.7
+374,Female,51,Caucasian,62.5,169.0
+375,Female,71,Caucasian,79.9,185.5
+376,Female,79,Asian,75.3,145.0
+377,Female,69,Caucasian,54.5,164.0
+378,Male,27,African American,67.8,164.0
+379,Male,73,African American,72.6,166.0
+380,Female,79,Asian,83.0,167.7
+381,Female,23,Asian,66.0,188.3
+382,Male,34,Caucasian,72.6,161.7
+383,Female,41,African American,63.5,159.1
+384,Female,55,Caucasian,68.2,165.0
+385,Female,24,African American,53.2,171.6
+386,Female,19,Caucasian,79.9,160.4
+387,Female,76,Caucasian,43.1,175.2
+388,Male,58,Asian,68.6,153.7
+389,Female,59,Caucasian,68.8,172.7
+390,Male,20,Hispanic,94.1,171.0
+391,Female,49,Caucasian,76.4,159.7
+392,Male,74,Caucasian,80.5,158.8
+393,Female,47,Caucasian,81.0,173.0
+394,Female,55,African American,70.6,159.2
+395,Male,74,Caucasian,50.6,178.4
+396,Male,71,Caucasian,71.2,189.1
+397,Female,78,Hispanic,72.9,178.9
+398,Male,62,Caucasian,58.4,176.3
+399,Female,46,Hispanic,65.9,174.0
+400,Female,24,Hispanic,65.8,151.6
+401,Female,52,Hispanic,67.5,168.3
+402,Female,21,Caucasian,69.5,169.7
+403,Male,79,Caucasian,54.6,157.4
+404,Female,23,Caucasian,75.3,167.7
+405,Male,21,Asian,73.7,172.1
+406,Male,26,Asian,67.4,189.4
+407,Male,22,Asian,73.9,157.1
+408,Male,55,Caucasian,63.4,187.3
+409,Male,39,African American,74.8,181.4
+410,Male,35,Asian,65.2,169.4
+411,Male,26,Caucasian,76.4,191.0
+412,Male,25,Caucasian,78.4,170.0
+413,Male,26,Caucasian,63.7,173.4
+414,Male,55,Caucasian,68.3,165.9
+415,Male,34,Caucasian,56.6,174.5
+416,Female,51,Caucasian,53.5,159.1
+417,Male,48,Caucasian,62.7,159.0
+418,Female,50,Caucasian,52.3,169.7
+419,Female,50,Caucasian,77.5,140.0
+420,Male,64,Asian,78.3,156.3
+421,Female,47,Caucasian,89.8,196.6
+422,Male,21,Hispanic,71.1,162.9
+423,Female,45,African American,63.8,192.0
+424,Female,63,Hispanic,70.7,166.0
+425,Male,75,Caucasian,78.7,157.3
+426,Male,22,Caucasian,57.8,172.8
+427,Female,42,Hispanic,68.2,170.1
+428,Female,47,Caucasian,78.9,157.0
+429,Female,24,Asian,51.6,163.9
+430,Male,72,Caucasian,85.9,176.1
+431,Male,45,Caucasian,71.5,146.9
+432,Male,44,Caucasian,75.3,177.5
+433,Female,43,Caucasian,65.7,172.3
+434,Male,38,Caucasian,75.5,161.1
+435,Female,41,Hispanic,82.8,185.2
+436,Female,22,Caucasian,59.6,153.2
+437,Male,23,Caucasian,52.1,165.9
+438,Female,69,Caucasian,60.4,168.5
+439,Male,55,Hispanic,63.7,189.4
+440,Female,60,Caucasian,59.0,171.9
+441,Female,73,African American,60.2,161.8
+442,Female,73,Hispanic,76.1,172.2
+443,Male,79,Caucasian,70.2,171.9
+444,Female,40,Caucasian,66.8,171.2
+445,Male,27,Caucasian,52.8,179.9
+446,Male,72,Caucasian,82.7,155.8
+447,Female,25,African American,63.1,175.0
+448,Male,69,Caucasian,67.8,166.6
+449,Male,56,Hispanic,73.3,172.5
+450,Female,19,Caucasian,49.0,188.2
+451,Female,76,Caucasian,73.9,178.0
+452,Male,29,Asian,71.6,176.9
+453,Female,22,Caucasian,69.6,161.0
+454,Male,23,African American,72.2,155.2
+455,Male,42,Caucasian,69.6,160.6
+456,Female,28,Caucasian,59.5,173.5
+457,Female,67,Hispanic,54.1,169.2
+458,Male,74,Caucasian,83.3,163.2
+459,Male,66,Caucasian,69.4,164.8
+460,Male,35,Caucasian,75.0,165.9
+461,Female,49,Caucasian,58.6,179.4
+462,Female,35,Caucasian,76.5,188.2
+463,Male,40,Caucasian,80.9,172.6
+464,Female,61,African American,66.9,161.1
+465,Female,51,African American,48.7,171.4
+466,Male,32,Caucasian,69.6,179.2
+467,Male,18,Caucasian,67.7,158.4
+468,Male,67,Caucasian,72.3,174.7
+469,Female,36,Caucasian,58.0,178.0
+470,Male,49,African American,80.5,166.5
+471,Male,26,Caucasian,70.2,153.9
+472,Male,50,Caucasian,71.7,180.9
+473,Female,22,Caucasian,80.8,179.2
+474,Male,45,Caucasian,74.0,178.4
+475,Male,73,Caucasian,67.5,167.2
+476,Female,54,Caucasian,72.3,166.2
+477,Female,36,Caucasian,64.6,172.1
+478,Male,79,Caucasian,91.3,167.0
+479,Female,71,African American,59.7,179.0
+480,Female,23,Caucasian,76.6,157.4
+481,Male,33,Caucasian,72.7,186.4
+482,Female,51,Caucasian,63.0,169.3
+483,Female,65,Caucasian,79.5,179.6
+484,Female,67,Caucasian,69.4,179.4
+486,Female,40,African American,49.7,167.1
+487,Male,33,Caucasian,72.2,160.6
+488,Female,30,Caucasian,69.4,156.0
+489,Male,66,African American,63.8,188.2
+490,Male,29,Hispanic,75.3,200.0
+491,Female,47,African American,67.9,158.4
+492,Female,61,Hispanic,45.0,173.3
+493,Female,73,Hispanic,69.1,181.3
+494,Female,27,Caucasian,64.8,167.6
+495,Female,46,Caucasian,48.9,169.5
+496,Female,55,Caucasian,58.9,167.9
+498,Male,21,Caucasian,69.3,170.1
+499,Female,22,Caucasian,63.7,165.7
+500,Male,57,Caucasian,79.0,140.8
+501,Female,47,Caucasian,73.1,177.6
+502,Male,46,Hispanic,66.2,176.9
+503,Male,38,Caucasian,78.4,182.7
+504,Male,79,Caucasian,52.5,178.9
+505,Male,69,Hispanic,68.9,163.8
+506,Female,80,African American,96.9,158.6
+507,Male,20,Caucasian,68.0,179.8
+508,Female,46,Caucasian,54.0,161.5
+509,Male,41,Caucasian,82.9,165.4
+510,Female,42,Caucasian,46.5,163.1
+511,Female,61,Caucasian,85.2,170.6
+512,Female,22,Caucasian,51.6,160.8
+513,Female,36,Caucasian,71.5,166.7
+514,Male,39,Caucasian,71.2,173.2
+515,Male,76,Caucasian,77.2,162.0
+516,Female,26,Caucasian,69.3,153.1
+517,Male,37,Caucasian,67.8,166.1
+519,Male,59,African American,71.9,165.9
+520,Female,19,Caucasian,78.9,166.9
+521,Male,78,Caucasian,74.5,168.3
+522,Female,30,Caucasian,66.2,178.0
+523,Male,27,Caucasian,75.2,169.3
+524,Male,50,African American,72.2,169.8
+525,Male,60,Caucasian,76.5,164.3
+526,Male,56,Caucasian,58.0,174.5
+527,Male,29,Asian,61.0,166.2
+528,Male,64,Caucasian,77.9,185.5
+529,Female,41,African American,76.0,180.1
+530,Male,80,Caucasian,66.7,170.8
+531,Female,66,African American,83.1,169.1
+532,Female,32,Caucasian,59.4,166.5
+533,Female,79,Asian,59.5,175.2
+534,Female,75,Asian,67.7,169.8
+535,Female,61,Hispanic,70.2,175.2
+536,Female,47,African American,77.8,176.3
+537,Female,50,Caucasian,84.5,160.2
+538,Male,70,Caucasian,76.2,176.6
+539,Male,73,Caucasian,67.3,161.4
+540,Female,73,Caucasian,58.3,173.6
+541,Male,63,Asian,72.8,161.3
+542,Male,36,Caucasian,75.6,172.9
+543,Male,35,Caucasian,88.5,179.0
+544,Male,71,Caucasian,55.2,170.1
+545,Male,70,Caucasian,79.9,176.1
+546,Female,77,Caucasian,56.3,189.5
+547,Male,43,Caucasian,68.9,188.7
+548,Male,42,Hispanic,76.4,177.3
+549,Female,32,Caucasian,61.2,156.0
+550,Male,71,African American,68.4,149.2
+551,Female,68,Caucasian,60.0,167.4
+552,Male,36,Hispanic,58.9,159.6
+553,Female,62,Asian,75.3,178.6
+554,Female,46,Caucasian,62.5,162.4
+555,Male,19,Caucasian,83.4,172.7
+556,Male,53,Hispanic,60.5,166.0
+557,Female,25,Asian,75.6,160.9
+558,Male,37,Caucasian,75.8,175.1
+559,Male,44,Caucasian,65.2,169.1
+560,Female,22,Caucasian,85.0,176.6
+561,Female,56,Caucasian,59.0,185.9
+562,Male,63,Caucasian,94.6,176.0
+563,Female,18,Caucasian,86.1,170.8
+564,Male,54,Caucasian,67.4,187.6
+565,Male,51,Hispanic,55.6,172.7
+566,Male,79,Caucasian,96.3,162.8
+567,Male,42,Asian,49.7,182.9
+568,Male,58,Caucasian,63.1,172.4
+569,Female,34,African American,78.4,182.4
+570,Female,68,Caucasian,81.5,185.9
+571,Male,64,Caucasian,70.5,178.3
+572,Male,67,Caucasian,65.4,182.2
+573,Female,26,Caucasian,81.5,156.3
+574,Female,70,Caucasian,60.7,161.9
+575,Female,80,African American,78.8,174.2
+576,Male,69,Caucasian,79.8,159.8
+577,Female,20,Caucasian,73.8,174.9
+579,Male,38,Hispanic,54.7,167.7
+580,Female,70,Caucasian,42.6,163.6
+581,Female,20,African American,64.1,155.2
+582,Male,36,Caucasian,80.2,170.8
+583,Male,73,Caucasian,57.1,176.5
+584,Female,25,Asian,96.3,163.5
+585,Female,74,Caucasian,81.2,170.8
+586,Female,75,Hispanic,72.1,174.2
+588,Female,41,Hispanic,49.5,180.2
+589,Female,69,Caucasian,60.6,167.6
+590,Female,23,Caucasian,69.4,155.9
+591,Male,52,Caucasian,75.9,157.9
+592,Male,23,Caucasian,61.7,176.2
+594,Female,28,African American,70.7,179.0
+595,Female,46,Caucasian,75.5,174.0
+596,Female,57,Hispanic,65.4,162.2
+597,Female,58,Hispanic,87.2,170.7
+598,Male,22,African American,64.5,174.6
+599,Female,41,Caucasian,73.3,176.2
+600,Male,78,Caucasian,67.6,169.6
+601,Female,20,Caucasian,69.8,193.1
+602,Male,67,Caucasian,60.9,178.7
+603,Female,42,Hispanic,66.2,175.2
+604,Male,56,Caucasian,62.7,170.7
+605,Female,78,Caucasian,68.8,172.1
+606,Female,66,Caucasian,80.7,181.4
+607,Male,51,Caucasian,63.1,167.9
+608,Female,59,Caucasian,59.9,173.9
+609,Male,19,African American,68.8,180.3
+610,Female,51,Caucasian,79.9,180.7
+611,Male,34,African American,65.5,164.4
+613,Female,62,Hispanic,71.3,165.6
+614,Female,30,Caucasian,60.9,164.3
+615,Male,46,Caucasian,66.7,159.1
+616,Female,23,Asian,64.3,168.6
+617,Female,60,Caucasian,64.2,176.4
+618,Male,53,Caucasian,73.8,160.7
+619,Female,72,Caucasian,74.7,155.8
+620,Male,68,Caucasian,66.0,167.9
+621,Male,25,Hispanic,64.7,157.7
+622,Male,33,Asian,77.5,163.4
+623,Male,41,Caucasian,72.1,181.3
+624,Female,47,Asian,78.0,177.6
+625,Male,57,Asian,63.8,158.7
+626,Male,37,Caucasian,70.1,158.3
+627,Female,51,Caucasian,48.1,166.6
+628,Female,70,Caucasian,81.7,183.5
+629,Male,80,Caucasian,68.8,165.7
+630,Male,46,Caucasian,70.2,176.7
+632,Male,67,Hispanic,78.4,163.9
+633,Female,50,Hispanic,64.9,183.8
+634,Male,71,Caucasian,51.1,160.4
+635,Male,37,Caucasian,73.7,165.8
+636,Female,77,African American,75.0,166.0
+637,Female,78,Hispanic,74.7,173.9
+638,Female,72,Caucasian,79.4,170.1
+639,Male,58,Hispanic,78.3,171.6
+641,Male,50,Caucasian,68.0,164.4
+642,Male,28,Caucasian,63.3,171.2
+643,Female,71,Hispanic,58.5,169.6
+644,Male,70,Asian,76.4,175.8
+646,Female,59,Caucasian,61.8,175.8
+647,Female,57,Caucasian,71.5,178.3
+648,Female,74,Caucasian,65.3,155.5
+649,Female,59,Hispanic,79.9,168.4
+650,Female,33,Asian,69.3,156.2
+651,Female,37,Caucasian,49.1,172.4
+652,Male,28,Caucasian,84.3,168.4
+653,Female,47,Caucasian,49.7,177.1
+654,Male,38,Asian,66.8,160.8
+655,Female,64,Hispanic,71.2,158.9
+656,Female,80,Caucasian,71.0,170.3
+657,Female,50,Caucasian,64.0,171.2
+658,Female,33,Caucasian,76.7,164.4
+659,Female,46,Caucasian,76.6,163.5
+660,Male,21,Caucasian,83.7,164.0
+661,Female,73,Caucasian,63.5,183.0
+662,Male,79,Asian,84.6,179.0
+663,Male,70,Caucasian,59.8,170.9
+664,Female,30,African American,73.5,180.3
+665,Female,50,Caucasian,72.9,175.3
+666,Female,49,Caucasian,75.3,176.0
+667,Female,50,Caucasian,76.7,177.5
+668,Male,31,Caucasian,80.4,177.3
+669,Male,21,Caucasian,75.1,179.7
+670,Female,36,Caucasian,67.7,177.4
+671,Male,45,Caucasian,77.8,183.0
+672,Female,64,Caucasian,66.6,186.7
+674,Male,54,Caucasian,60.6,156.7
+675,Female,53,Caucasian,54.4,173.1
+676,Female,50,Caucasian,108.0,180.8
+677,Female,70,Hispanic,80.0,163.8
+678,Male,26,Hispanic,61.3,173.3
+679,Female,41,Asian,74.3,171.8
+680,Female,53,Hispanic,58.7,173.2
+681,Male,30,Caucasian,61.0,173.9
+682,Female,50,Caucasian,89.4,170.6
+683,Male,26,African American,70.8,160.5
+684,Female,51,Caucasian,67.9,158.1
+685,Male,38,Hispanic,76.9,178.4
+686,Female,28,Caucasian,73.6,168.9
+687,Female,55,Caucasian,66.6,173.6
+688,Female,63,Caucasian,87.9,170.6
+689,Female,70,Caucasian,71.8,175.4
+690,Female,61,Caucasian,95.7,156.9
+691,Female,55,Caucasian,72.2,161.3
+692,Male,56,Caucasian,57.7,165.2
+693,Male,64,Caucasian,67.6,163.5
+694,Female,28,Caucasian,59.3,173.1
+695,Female,27,Asian,88.2,161.7
+696,Male,20,Caucasian,74.9,156.3
+697,Male,30,Caucasian,64.9,173.8
+698,Female,44,Caucasian,66.4,166.3
+699,Male,44,Caucasian,61.6,173.3
+700,Female,73,Asian,79.5,164.2
+701,Male,63,Caucasian,68.1,166.3
+702,Male,53,Caucasian,74.7,165.8
+703,Female,51,Caucasian,80.6,176.2
+704,Male,47,Hispanic,61.7,144.8
+705,Female,52,Caucasian,57.8,182.5
+706,Female,57,Caucasian,77.6,175.0
+707,Male,35,Caucasian,52.7,171.3
+708,Male,78,Hispanic,66.4,168.9
+709,Female,67,Caucasian,60.6,183.5
+710,Male,62,African American,76.5,171.6
+711,Female,48,Caucasian,63.8,165.9
+713,Female,75,Hispanic,81.8,167.6
+714,Female,79,African American,88.1,166.8
+715,Male,36,Caucasian,56.7,161.0
+716,Male,40,Hispanic,57.6,156.6
+717,Female,65,Caucasian,87.3,151.8
+718,Male,70,Caucasian,88.5,168.2
+719,Female,26,Caucasian,70.1,174.5
+720,Male,33,Caucasian,77.7,175.2
+721,Male,58,Caucasian,61.2,176.6
+722,Male,44,Caucasian,55.2,173.9
+723,Female,24,African American,82.3,169.3
+724,Male,18,Hispanic,52.0,180.2
+725,Male,44,Caucasian,79.9,181.6
+726,Female,48,Caucasian,67.1,162.8
+727,Female,38,Caucasian,69.7,193.9
+728,Male,76,African American,67.9,165.0
+729,Male,52,African American,83.4,168.6
+730,Male,76,Hispanic,72.7,178.4
+731,Female,74,Asian,74.8,173.9
+732,Male,71,Caucasian,80.1,164.7
+733,Female,29,Hispanic,64.1,162.9
+734,Female,74,Caucasian,48.3,166.3
+735,Female,54,Caucasian,71.1,152.1
+736,Female,36,Caucasian,67.6,160.6
+737,Female,74,Hispanic,75.0,169.2
+738,Female,35,Caucasian,47.6,156.6
+739,Male,39,Caucasian,80.3,175.8
+740,Female,59,Caucasian,81.4,159.8
+741,Male,18,African American,69.1,158.5
+742,Female,54,African American,60.2,160.0
+743,Male,29,Caucasian,66.4,168.5
+744,Female,70,Caucasian,69.0,171.6
+746,Male,29,Hispanic,70.1,179.9
+747,Female,38,Hispanic,79.0,173.0
+748,Male,34,Caucasian,84.9,175.3
+749,Female,66,Caucasian,58.7,160.5
+750,Female,37,Caucasian,77.7,165.4
+751,Male,34,Caucasian,69.4,163.9
+752,Male,21,African American,72.7,169.2
+753,Female,37,Caucasian,73.7,163.2
+754,Female,62,Caucasian,57.6,151.5
+755,Female,41,Caucasian,70.8,176.9
+757,Male,47,African American,53.9,165.5
+758,Female,44,African American,80.8,171.5
+759,Female,66,Caucasian,66.5,181.1
+760,Male,66,Caucasian,56.7,174.6
+761,Male,51,Caucasian,76.2,179.6
+762,Female,22,Hispanic,52.6,168.3
+763,Male,21,Asian,68.5,166.0
+764,Male,54,Caucasian,56.7,165.8
+765,Male,38,Asian,64.8,177.6
+766,Female,25,African American,82.0,158.1
+767,Female,23,Hispanic,78.9,165.3
+769,Male,50,Caucasian,80.2,179.2
+770,Male,53,Caucasian,62.7,169.5
+771,Female,64,Caucasian,67.9,165.5
+772,Female,70,Caucasian,58.9,186.7
+773,Male,55,Caucasian,57.2,166.2
+774,Female,40,African American,79.7,162.9
+775,Male,77,Hispanic,58.6,161.8
+776,Female,20,Caucasian,70.8,179.5
+777,Male,67,Caucasian,68.4,181.4
+778,Female,41,Hispanic,67.0,156.3
+779,Female,46,Asian,81.1,156.9
+780,Female,42,Caucasian,66.4,168.4
+781,Male,59,Asian,87.8,167.6
+782,Male,29,Hispanic,60.7,182.8
+783,Female,51,Caucasian,77.5,160.3
+784,Male,71,Caucasian,44.2,158.3
+785,Male,80,Caucasian,86.6,168.9
+786,Female,52,Caucasian,69.5,162.0
+787,Male,33,Caucasian,76.5,174.7
+788,Male,35,Caucasian,66.4,194.8
+789,Male,20,Asian,60.5,167.8
+790,Female,57,African American,74.4,182.3
+791,Male,33,Caucasian,88.5,175.9
+792,Male,56,Caucasian,95.7,162.8
+793,Male,33,African American,72.7,186.0
+794,Female,46,Caucasian,90.9,170.2
+795,Male,66,Asian,73.1,153.6
+796,Male,26,Caucasian,63.4,164.9
+797,Female,32,Asian,72.1,177.2
+798,Female,54,Caucasian,59.5,183.0
+799,Female,33,Caucasian,65.0,170.0
+800,Male,60,Caucasian,66.6,179.9
+801,Female,37,Caucasian,74.0,187.9
+802,Male,58,African American,89.2,146.1
+805,Female,44,Caucasian,73.0,185.6
+806,Female,29,African American,77.3,155.0
+807,Female,33,Asian,71.1,174.5
+808,Female,72,African American,65.9,171.8
+809,Female,76,Caucasian,63.6,172.3
+810,Female,79,Caucasian,62.5,156.0
+811,Male,42,Caucasian,60.5,166.8
+812,Male,39,Caucasian,72.3,158.2
+813,Female,72,Caucasian,78.1,176.4
+814,Male,21,Caucasian,82.2,173.1
+815,Male,73,Caucasian,70.0,167.3
+816,Male,48,Caucasian,48.2,162.8
+817,Female,37,Hispanic,76.6,173.4
+818,Male,31,Hispanic,63.8,169.7
+819,Male,65,Hispanic,58.6,157.0
+820,Female,76,Caucasian,68.4,174.1
+821,Male,43,Hispanic,78.5,180.2
+822,Female,67,Caucasian,77.5,177.8
+823,Female,52,Caucasian,60.4,171.3
+824,Female,34,Caucasian,61.6,178.6
+825,Female,47,Caucasian,65.5,170.1
+826,Female,66,Asian,70.3,160.2
+827,Male,41,Caucasian,69.5,171.2
+828,Male,54,Asian,63.0,169.3
+830,Female,36,Caucasian,73.4,165.9
+831,Female,32,Caucasian,79.7,178.8
+832,Male,49,Caucasian,70.7,151.1
+833,Female,34,African American,77.3,182.1
+834,Female,79,African American,71.6,174.2
+835,Female,47,Caucasian,61.4,164.3
+836,Female,28,Caucasian,79.9,162.9
+837,Female,29,Hispanic,84.8,162.0
+838,Male,51,Caucasian,82.1,168.8
+839,Male,78,Asian,79.4,150.0
+840,Male,66,Caucasian,63.6,181.0
+841,Male,71,Caucasian,92.6,189.0
+842,Male,63,Caucasian,71.4,170.5
+843,Male,50,Caucasian,80.6,175.7
+844,Male,57,Caucasian,51.1,168.7
+845,Female,60,Caucasian,67.0,174.6
+846,Male,52,Caucasian,69.6,148.4
+847,Male,19,Caucasian,69.8,170.4
+848,Female,52,Hispanic,55.3,168.6
+849,Male,50,Asian,62.8,158.2
+850,Female,69,Hispanic,65.1,177.2
+851,Male,24,Hispanic,58.6,172.7
+852,Male,33,Caucasian,72.0,175.0
+853,Female,70,Caucasian,48.6,160.0
+854,Female,23,Caucasian,90.0,169.4
+855,Female,47,Caucasian,44.8,165.5
+856,Male,37,African American,73.4,178.4
+857,Male,59,Hispanic,62.9,174.8
+858,Male,23,Caucasian,97.5,175.7
+859,Female,53,Caucasian,60.6,167.7
+860,Male,62,Caucasian,44.5,153.3
+861,Female,72,Caucasian,48.7,186.1
+862,Female,54,Hispanic,62.0,181.5
+863,Male,75,Caucasian,64.8,159.2
+864,Male,32,Caucasian,79.3,159.5
+865,Female,35,Caucasian,61.7,179.9
+866,Male,61,Hispanic,49.7,157.1
+867,Male,29,Hispanic,72.8,166.7
+868,Female,19,Hispanic,70.8,163.9
+869,Male,66,Asian,74.0,164.6
+870,Female,77,Caucasian,71.7,167.2
+871,Male,54,Caucasian,74.6,164.9
+873,Female,42,African American,66.3,163.1
+874,Male,68,Hispanic,71.5,161.0
+875,Male,50,African American,56.6,161.2
+876,Female,21,Caucasian,67.3,171.1
+877,Male,71,Caucasian,71.0,187.1
+878,Female,80,African American,62.5,164.9
+879,Male,58,Caucasian,71.5,161.9
+880,Female,49,Caucasian,72.8,161.6
+881,Female,45,Caucasian,70.5,164.5
+882,Female,23,African American,77.6,148.5
+883,Female,69,Caucasian,61.5,169.0
+884,Male,23,Caucasian,79.2,169.5
+885,Female,63,Asian,61.1,179.3
+886,Male,65,Caucasian,68.5,158.2
+887,Female,24,Caucasian,61.2,159.6
+888,Female,46,Caucasian,66.9,184.0
+889,Female,24,Caucasian,64.7,170.9
+890,Male,45,Caucasian,79.7,157.9
+891,Female,24,Caucasian,84.6,172.1
+892,Female,53,Caucasian,77.5,164.2
+893,Female,73,Caucasian,63.9,181.5
+894,Female,44,Caucasian,63.2,164.5
+895,Male,64,Hispanic,63.0,169.0
+896,Male,54,Caucasian,72.7,154.2
+897,Female,28,Caucasian,84.8,171.7
+898,Female,35,Caucasian,69.1,175.8
+899,Male,28,Caucasian,51.0,150.5
+900,Female,37,Caucasian,71.3,171.5
+901,Male,41,Caucasian,63.3,178.6
+902,Male,64,Caucasian,64.2,167.6
+903,Male,47,Caucasian,65.4,184.6
+904,Female,18,Hispanic,77.1,187.4
+905,Female,71,Caucasian,56.6,174.9
+906,Female,46,Caucasian,80.4,166.8
+907,Male,37,Caucasian,71.8,167.1
+908,Male,48,Caucasian,68.3,171.8
+909,Female,79,Caucasian,73.0,175.1
+910,Female,79,Caucasian,40.0,167.3
+911,Male,38,Caucasian,70.0,180.1
+912,Female,41,Caucasian,68.2,167.7
+913,Male,55,Hispanic,44.7,157.9
+914,Male,61,African American,49.5,175.4
+915,Male,78,African American,56.2,166.9
+916,Male,46,Asian,63.0,171.8
+917,Male,70,Asian,73.1,154.1
+918,Female,61,Caucasian,74.3,171.2
+919,Female,33,Caucasian,78.7,175.4
+920,Male,63,Caucasian,63.7,178.2
+921,Female,22,Caucasian,77.7,152.8
+922,Female,55,Caucasian,59.4,162.7
+923,Female,52,Caucasian,71.2,172.7
+924,Female,62,Hispanic,79.5,172.2
+925,Male,24,African American,88.1,164.0
+926,Female,28,Caucasian,79.2,185.9
+927,Male,54,Hispanic,72.1,154.9
+928,Female,79,African American,52.8,149.7
+929,Female,24,Caucasian,60.4,178.7
+930,Female,32,Caucasian,75.2,163.5
+931,Male,46,Caucasian,85.9,192.1
+932,Female,67,African American,87.0,193.0
+933,Male,40,Hispanic,93.6,172.1
+934,Female,24,Caucasian,63.0,176.2
+935,Male,25,Asian,56.4,194.7
+936,Male,40,Caucasian,81.9,168.2
+937,Female,68,Caucasian,82.2,168.2
+938,Female,40,Caucasian,56.0,167.6
+939,Female,64,African American,58.0,156.1
+940,Female,22,Caucasian,72.6,179.3
+941,Male,19,Asian,67.8,168.3
+942,Male,61,Asian,80.2,165.4
+943,Male,51,Caucasian,60.6,157.6
+944,Male,39,Caucasian,61.8,158.8
+945,Female,32,Asian,76.0,174.0
+947,Female,43,Caucasian,85.3,175.5
+948,Male,46,Caucasian,79.0,171.1
+949,Female,18,African American,79.6,162.7
+950,Male,35,African American,76.1,165.9
+951,Male,54,Caucasian,54.2,183.4
+952,Male,41,Caucasian,91.0,175.3
+953,Female,25,Caucasian,59.3,169.2
+954,Female,51,Hispanic,74.2,152.2
+955,Female,56,Caucasian,79.1,190.4
+956,Female,55,Caucasian,59.4,168.6
+957,Female,72,Caucasian,84.0,155.7
+958,Male,70,African American,80.7,170.3
+959,Female,76,Caucasian,74.1,164.6
+960,Male,61,Caucasian,61.6,170.2
+961,Male,33,Caucasian,77.0,197.7
+962,Male,41,African American,59.5,165.4
+963,Female,44,Caucasian,80.1,166.6

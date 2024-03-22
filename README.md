@@ -1,1 +1,3 @@
 # Data_BMI_Technical
+
+Objective: The objective of this exercise is to work with two datasets, calculate Body Mass Index (BMI) for the matched records, and create visualizations based on the merged dataset. Then be able to present your results and walk us through your methods. This is not meant to be an overly complex task; it is so that you can demonstrate your understanding of working with multiple datasets and creating visualizations. We also want to review your code during the interview, so please demonstrate sufficient code annotation and be prepared to discuss it.  Please note that this data has been randomly generated and does not necessarily reflect real world patient characteristics. 
